@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Exam_Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\exam_library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\exam_library.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Exam_Library_Db/True/SqlTable/dbo.Authors.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\controllers\\catagoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\controllers\\catagoryscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\models\\addbookdtls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\models\\addbookdtls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\models\\addcatagorydtls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\models\\addcatagorydtls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\models\\addauthor_dtls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\models\\addauthor_dtls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\models\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\data\\applicationdbcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\data\\applicationdbcontect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\models\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\models\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\models\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|d:\\exam_library\\exam_library\\migrations\\20241116055127_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1A0AD6E-4CFE-47C1-8171-AC26E6F2F0B0}|Exam_Library\\Exam_Library.csproj|solutionrelative:exam_library\\migrations\\20241116055127_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Exam_Library\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:10:16.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CatagorysController.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Controllers\\CatagorysController.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Controllers\\CatagorysController.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Controllers\\CatagorysController.cs",
+              "RelativeToolTip": "Exam_Library\\Controllers\\CatagorysController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:10:56.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exam_Library.csproj",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Exam_Library.csproj",
+              "RelativeDocumentMoniker": "Exam_Library\\Exam_Library.csproj",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Exam_Library.csproj",
+              "RelativeToolTip": "Exam_Library\\Exam_Library.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-16T05:15:59.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Exam_Library\\Controllers\\AuthorsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:01:52.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddBookDtls.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Models\\AddBookDtls.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Models\\AddBookDtls.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Models\\AddBookDtls.cs",
+              "RelativeToolTip": "Exam_Library\\Models\\AddBookDtls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:07:44.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbo.Authors [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Exam_Library_Db/True/SqlTable/dbo.Authors.sql",
+              "ToolTip": "dbo.Authors [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-16T06:55:11.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddCatagoryDtls.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Models\\AddCatagoryDtls.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Models\\AddCatagoryDtls.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Models\\AddCatagoryDtls.cs",
+              "RelativeToolTip": "Exam_Library\\Models\\AddCatagoryDtls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:08:04.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddAuthor_dtls.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Models\\AddAuthor_dtls.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Models\\AddAuthor_dtls.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Models\\AddAuthor_dtls.cs",
+              "RelativeToolTip": "Exam_Library\\Models\\AddAuthor_dtls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T06:07:24.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Models\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Models\\Entities\\Category.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Models\\Entities\\Category.cs",
+              "RelativeToolTip": "Exam_Library\\Models\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:17:56.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ApplicationDbContect.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Data\\ApplicationDbContect.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Data\\ApplicationDbContect.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Data\\ApplicationDbContect.cs",
+              "RelativeToolTip": "Exam_Library\\Data\\ApplicationDbContect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:27:11.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Models\\Entities\\Book.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Models\\Entities\\Book.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Models\\Entities\\Book.cs",
+              "RelativeToolTip": "Exam_Library\\Models\\Entities\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:18:25.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Models\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Models\\Entities\\Author.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Models\\Entities\\Author.cs",
+              "RelativeToolTip": "Exam_Library\\Models\\Entities\\Author.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:17:21.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Program.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Program.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Program.cs",
+              "RelativeToolTip": "Exam_Library\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:15:49.127Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20241116055127_initial migration.cs",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\Migrations\\20241116055127_initial migration.cs",
+              "RelativeDocumentMoniker": "Exam_Library\\Migrations\\20241116055127_initial migration.cs",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\Migrations\\20241116055127_initial migration.cs",
+              "RelativeToolTip": "Exam_Library\\Migrations\\20241116055127_initial migration.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T05:51:27.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Exam_Library\\Exam_Library\\appsettings.json",
+              "RelativeDocumentMoniker": "Exam_Library\\appsettings.json",
+              "ToolTip": "D:\\Exam_Library\\Exam_Library\\appsettings.json",
+              "RelativeToolTip": "Exam_Library\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T05:37:44.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
